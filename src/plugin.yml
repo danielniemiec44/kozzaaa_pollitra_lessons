@@ -1,0 +1,11 @@
+main: eu.simplenetwork.kits.Main
+name: Kits
+version: 1.0
+author: kozzaaa
+description: Plugin na kity
+api-version: 1.17
+
+commands:
+  kit:
+    description: Otwiera gui z kitami
+    usage: "§8» §cPoprawne uzycie: /kit"

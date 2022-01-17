@@ -1,0 +1,12 @@
+gui-name: "§6§lKity"
+background: "WHITE_STAINED_GLASS_PANE"
+name: '§f§l*'
+size: 27
+kits:
+  gracz:
+    time: 900
+    display-name: "§8Kit Gracz"
+    item: "LEATHER_HELMET"
+    slot: 10
+    lore:
+      - "§7Kit gracz odnawia sie po 15 minutach"
